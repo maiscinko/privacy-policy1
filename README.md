@@ -3,7 +3,7 @@
 Última atualização: 23/01/2025
 
 ## Introdução
-Esta Política de Privacidade descreve como suas informações pessoais são coletadas, usadas e compartilhadas quando você utiliza nosso serviço de integração via WhatsApp.
+Esta Política de Privacidade descreve como suas informações pessoais são coletadas, usadas e compartilhadas quando você utiliza nosso serviço de integração via WhatsApp e Instagram.
 
 ## Informações Coletadas
 Coletamos dados necessários para o funcionamento do serviço:
